@@ -5,6 +5,7 @@ what is Done ?
 
 Kernel Heap
 
+
 -allocatin(Next-fit algorithm).
 
 -free.
@@ -13,9 +14,11 @@ Kernel Heap
 
 -find kernel virtual address of the given physical one.
 
+
 Load Environment by env_create()
 
 -create_page_table (create new page table and link it to the directory).
+
 
 PAGE FAULT HANDLER
 
@@ -23,11 +26,13 @@ PAGE FAULT HANDLER
 
 -Replacement(Using Modified Clock Algorithm).
 
+
 CPU Scheduling by MLFQ
 
 -Initialize the MLFQ (sched_init_MLFQ).
 
 -Handle the Scheduler (fos_scheduler).
+
 
 User Heap
 
