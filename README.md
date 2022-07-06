@@ -6,9 +6,9 @@ what is Done ?
 Kernel Heap
 
 
--allocatin(Next-fit algorithm).
+-allocation(Next-fit algorithm).
 
--free.
+-free(Next-fit algorithm).
 
 -find physical address of the given kernel virtual address.
 
@@ -24,7 +24,7 @@ PAGE FAULT HANDLER
 
 -Placement.
 
--Replacement(Using Modified Clock Algorithm).
+-Replacement(Modified Clock Algorithm).
 
 
 CPU Scheduling by MLFQ
